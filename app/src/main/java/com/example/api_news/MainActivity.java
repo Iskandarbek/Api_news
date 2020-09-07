@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
         loadNews("");
 
     }
+    //onCreate method
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
